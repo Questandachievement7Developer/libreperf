@@ -1,7 +1,7 @@
 # libreperf 0.27b "OSX XNU kernel" based OS performance improvement project
 ------------
 # what is Libreperf?
-An project of attempting to remove macOS (10.12+ 10.13+) Sierra and above or (Possibly jailbroken terminal enabled iOS untested) performance limit on older Apple Devices "with this badly written program" and using various command and modification from multiple source or website and replacing some system management and adding some management to the system and adding responsiveness while handling heavy tasks I/O and other things
+An project of attempting to remove macOS (10.12+ 10.13+ 10.14+ 10.15+) Sierra and above or (Possibly jailbroken terminal enabled iOS untested) performance limit on older Apple Devices "with this badly written program" and using various command and modification from multiple source or website and replacing some system management and adding some management to the system and adding responsiveness while handling heavy tasks I/O and other things
 # i do not recommend system that only have 4 gb of RAM (Minimal = 8 GB or Required recomended = 16 GB)
 ------------
 # what does "Libreperf" mean?
@@ -51,9 +51,6 @@ here is the list
 21. Some minor storage tweaks
 22. System Slowdown detection
 23. System Auto performance sustain
-24. Universal Mounting Format (Coming soon)
-25. Linux & Darwin Integration Subsystem (sshd protocol) (qemu) (Coming soon)
-
 # How to install?
 
 THIS PROCESS IS IRREVERSIBLE SO IF YOU WANT TO PRESERVE THE VANILLA MACOS DO NOT USE THIS
